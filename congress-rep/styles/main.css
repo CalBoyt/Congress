@@ -1,0 +1,52 @@
+.mooney_info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.info {  
+    flex-basis: 20%;
+    border: 1px dotted black;
+    padding: 0em;
+    margin: 0em;
+    margin: 1em;
+    text-align: left; 
+}
+
+.mooney_committees {  
+    flex-basis: 23%;
+    border: 1px dotted black;
+    padding: 1em;
+    margin: 1em;
+    text-align: center; 
+}
+
+.mooney_leg {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.leg {  
+    flex-basis: 45%;
+    border: 1px dotted black;
+    padding: 0em;
+    margin: 0em;
+    margin: 1em;
+    text-align: left; 
+}
+
+body {
+    background-color: tan;
+    text-align: center;
+}
+
+.mooney {
+    
+}
+
+.pageHeader {
+    border: 2px solid red;
+    text-align: center;
+    padding: 1em
+}
